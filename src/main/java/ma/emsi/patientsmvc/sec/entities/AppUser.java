@@ -1,9 +1,9 @@
-package ma.emsi.patientsmvc.sec;
+package ma.emsi.patientsmvc.sec.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import ma.emsi.patientsmvc.sec.AppRole;
+import ma.emsi.patientsmvc.sec.entities.AppRole;
 
 import javax.persistence.*;
 import java.util.ArrayList;
